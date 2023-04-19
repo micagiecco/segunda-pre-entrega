@@ -89,6 +89,7 @@ header{
     color: black;
     text-align: center;
     padding: 30px;
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 0;
     }
 
@@ -96,6 +97,7 @@ header{
         width: 100%;
         height: auto;
         background-color:#fe8a1f;
+        margin-bottom: 0;
         }
 
  .nleft {
@@ -106,6 +108,7 @@ header{
     background-position: center;
     margin-left: 30px;
     margin-top: 30px;
+    margin-bottom: 30px;
     
 
  }
@@ -118,20 +121,50 @@ header{
     background-position: center;
     margin-left: 30px;
     margin-top: 30px;
+    margin-bottom: 30px;
  }
 
  .nright {
-    margin-top: 60px;
+    margin-top: 40px;
     text-align: center;
-    background-color: rgba(41, 23, 1, 0.30);
+    background-color: rgba(41, 23, 1, 0.3);
     margin-left: 30px;
     height: 300px;
-    padding: 20px;
+    padding: 30px;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
 
  }
 
+ /*--inicia como lo hacemos--*/
+
+ .clh {
+    background-color: #ea1e52;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0;
+ }
+
+ .sec2 {
+    width:100%;
+    background-color:#fe8a1f;
+ 
+   
+}
+
+.p2 {
+    padding: 30px;
+    background-color: rgba(41, 23, 1, 0.3);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    
+
+}
+
+
+
+ /*--fin como lo hacemos--/*
 
 
 
