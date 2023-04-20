@@ -160,13 +160,23 @@ header{
    
 }
 
+.divp {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex;
+    margin-top: 50px;
+}
+
 .p2 {
     background-color: rgba(41, 23, 1, 0.3);
     background-position: center;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     text-align: center;
-    height: 200px;
+    height: 250px;
+    display: flex;
+    
     
    
 }
@@ -286,7 +296,7 @@ h5 {
 
 .jumbotron
 {
-background-color:#90c296;
+background-color:#878ec2;
 width: 100%;
 height: 500px;
 background-position: center;
@@ -414,3 +424,94 @@ margin-bottom: 0;
 }
 
 /*--fin footer 2--*/
+
+/*--inicia mas info--*/
+
+/*-- inicia junbotron 2--*/
+
+.jumbotron2{
+
+   background-color: #878ec2; 
+   width: 100%;
+   height: 100px;
+}
+
+.jum2 {
+
+    text-align: center;
+    background-position: center;
+    padding: 60px;
+}
+/*-- fin junbotron 2--*/
+
+/*--inicia informacion de servicios--*/
+
+.imyd {
+    background-color: #878ec2;
+    
+}
+
+.servi{
+
+    border: 5px solid #553b79;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.icons2 {
+
+    width: 90px;
+    height: 100px;
+    
+}
+
+.h3ser{
+
+   font-family: 'Poppins', sans-serif; 
+   font-size: 30px;
+   margin-top: 10px;
+   font-weight: bold;
+   color:black;
+}
+
+.pser {
+
+    font-family: 'Poppins', sans-serif;
+    color:black;
+}
+/*--fin informacion de servicios--*/
+
+/*--inicio de footer3--*/
+
+.footer3 {
+
+    background-color: #878ec2;
+    margin-top: 40px;
+}
+
+.foot3 {
+
+    color:#553b79;
+}
+
+.contacto3 {
+
+    color:#553b79;
+}
+
+.redes3{
+    color:#553b79;
+}
+
+.redes3 i {
+
+    font-size: 30px;
+    color:#553b79;
+
+
+}
+
+.redes3 i:hover {
+    color: #fe8a1f; 
+}
+/*--fin de footer3--/*
