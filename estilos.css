@@ -515,3 +515,68 @@ margin-bottom: 0;
     color: #fe8a1f; 
 }
 /*--fin de footer3--/*
+
+/*--inicia portfolio--*/
+
+/*--inicia jumbotron3--*/
+
+.jumbotron3 {
+
+    background-color: #ede119;
+    text-align: center;
+    height: 100px;
+    padding: 20px;    
+}
+
+.jum3 {
+
+}
+
+/*--fin jumbotron--*/
+
+.porfolio {
+
+    background-color: #ede119;
+    padding: 30px;
+    margin-bottom: 0;
+}
+.port {
+
+    width: 450px;
+    height: 300px;
+}
+/*--fin portfolio--*/
+
+/*--inicia footer 4 --*/
+
+.footer4 {
+
+    background-color: #553b79;
+}
+
+.foot4 {
+
+    color:#ede119;
+}
+
+.contacto4 {
+
+    color:#ede119;
+}
+
+.redes4{
+    color:#ede119;
+}
+
+.redes4 i {
+
+    font-size: 30px;
+    color:#ede119;
+
+
+}
+
+.redes4 i:hover {
+    color:#878ec2; 
+}
+/*--fin footer 4 --*/
